@@ -16,6 +16,7 @@ h1 {
   font-size:69px;
   font-family:"Times New Roman", serif;
   color:red;
+  margin-left:69px;
 }
 
 button {
@@ -25,4 +26,9 @@ button {
   text-align:center;
   font-family:serif;
   color:red;
+  padding:20px;
+}
+
+.button1 {
+
 }
